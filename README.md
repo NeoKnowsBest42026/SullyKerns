@@ -1,6 +1,5 @@
 # SullyKerns
 
-markdown
 # Backend Operations & Technical Documentation Portfolio
 
 Methodical IT Professional specializing in pattern recognition, data integrity verification, 
