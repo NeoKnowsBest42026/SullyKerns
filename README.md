@@ -1,13 +1,13 @@
-# SullyKerns
+Sully Kerns
+Cybersecurity Student | IT Support | Networking
 
-# Backend Operations & Technical Documentation Portfolio
+About:
+Aspiring cybersecurity professional with a background in technical support,
+troubleshooting, documentation, and customer-focused problem-solving.
 
-Methodical IT Professional specializing in pattern recognition, data integrity verification, 
-and high-focus system monitoring. Highly skilled at taking complex technical interfaces 
-and translating them into clear, structured, runbook-driven technical documentation. 
+Featured Projects:
 
-Focus Areas:
-- Data Validation & Integrity Checking
-- Technical Writing & System Standard Operating Procedures (SOPs)
-- Network Infrastructure & Cloud Operations Foundations (AWS / Azure)
-- Asynchronous Ticket Triage & Audit Log Monitoring
+Security Incident Response Case Study
+Vulnerability Assessment Report
+Security Awareness Training Package
+Technical Documentation Portfolio
