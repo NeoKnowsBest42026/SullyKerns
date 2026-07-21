@@ -1,13 +1,21 @@
-Sully Kerns
-Cybersecurity Student | IT Support | Networking
+# Sullivan Kerns
 
-About:
-Aspiring cybersecurity professional with a background in technical support,
-troubleshooting, documentation, and customer-focused problem-solving.
+## Cybersecurity Portfolio
 
-Featured Projects:
+I am a cybersecurity student with a background in technical support, networking, troubleshooting, and customer-focused problem-solving.
 
-Security Incident Response Case Study
-Vulnerability Assessment Report
-Security Awareness Training Package
-Technical Documentation Portfolio
+## Featured Projects
+
+### Incident Response Case Study
+A simulated investigation demonstrating incident analysis, documentation, and remediation planning.
+
+[View Project](https://github.com/SullyKerns/incident-response-case-study)
+
+## Skills
+
+- IT Support
+- Networking
+- Cybersecurity Fundamentals
+- Technical Documentation
+- Troubleshooting
+- Security Analysis
